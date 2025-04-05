@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, TypeScript, Next.js 14, Three.js**
 
-- My Portfolio Link [abhishekgawande.in](abhishekgawande.in)
+- My Portfolio Link [https://abhishek-gawande.vercel.app/](https://abhishek-gawande.vercel.app/)
 
 - 💬 Ask me about **MERN, HTML, CSS, JavaScript, Tailwind css, Material UI, Shadcn UI**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gawandeabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gawandeabhi" height="30" width="40" /></a>
-<a href="https://instagram.com/gawandeabhishek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gawandeabhishek_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-gawande-a944a2277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-gawande-a944a2277" height="30" width="40" /></a>
+<a href="https://www.instagram.com/programmerboyabhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerboyabhi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
